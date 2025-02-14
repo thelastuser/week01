@@ -1,0 +1,34 @@
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 6px;
+}
+.hell { 
+    background: content-box linear-gradient(orange, crimson);
+}
+.heaven {
+    background: content-box linear-gradient(skyblue, green)
+}
+#svar {
+    background: content-box linear-gradient(antiquewhite, bisque)
+}
+#buvar {
+    background: content-box linear-gradient(bisque, burlywood)
+}
+#bhu {
+    background: content-box linear-gradient(burlywood, darkgoldenrod)
+}
+h1 {
+    font-family: Alex Brush;
+}
+p {
+    font-family: EB Garamond;
+}
+ul {
+    font-family: EB Garamond;
+}
+h2 {
+    font-family: Alex Brush;
+}
